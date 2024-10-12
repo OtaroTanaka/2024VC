@@ -12,6 +12,7 @@ body p img {
 	border: 10px dotted #4CADFC;
 }
 body {
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-image: url(leaf.jpg);
+	background-image: 100% 250%;
 }
